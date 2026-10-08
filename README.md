@@ -102,4 +102,4 @@ $ contact --me
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Myriam%20Khorchani-FF4D9D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/myriam-khorchani-855453433)
-[![Email](https://img.shields.io/badge/Email-ton%40email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:ton@email)
+[![Email](https://img.shields.io/badge/Email-myriamkhorchani71%40gmail.com-58A6FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:myriamkhorchani71@gmail.com)
